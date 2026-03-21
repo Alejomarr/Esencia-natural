@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Esencia Frutal</title>
+    <title>Sabor Natural</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -61,7 +61,7 @@
 <body>
 
 <header>
-    <h1>🍓 Esencia natural</h1>
+    <h1>🍓 Sabor natural</h1>
     <p>Sabor natural en cada sorbo</p>
 </header>
 
@@ -74,7 +74,7 @@
 
 <section id="inicio">
     <h2>Bienvenidos</h2>
-    <p>En Esencia Frutal ofrecemos licuados 100% naturales, preparados con fruta fresca y sin conservadores. 
+    <p>En Sabor natural ofrecemos licuados 100% naturales, preparados con fruta fresca y sin conservadores. 
     Nuestro objetivo es brindar bebidas saludables que llenen tu día de energía y sabor.</p>
 </section>
 
@@ -106,7 +106,7 @@
 
 <section id="mision">
     <h2>Misión</h2>
-    <p>Ofrecer bebidas saludables que aporten energía y bienestar a nuestros clientes.</p>
+    <p>Ser reconocidos como la mejor opcion local en licuados.</p>
 
     <h2>Visión</h2>
     <p>Ser el emprendimiento local preferido en bebidas naturales.</p>
@@ -115,12 +115,12 @@
 <section id="contacto">
     <h2>Contacto</h2>
     <p>Teléfono: 3656-5286</p>
-    <p>Instagram: @esencianatural</p>
+    <p>Instagram: @sabornatural</p>
     <p>Ubicación: Guatemala, Guatemala</p>
 </section>
 
 <footer>
-    <p>© 2026 Esencia Frutal - Proyecto </p>
+    <p>© 2026 Sabor Natural - Proyecto </p>
 </footer>
 
 </body>
